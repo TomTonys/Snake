@@ -1,1 +1,1 @@
-����һ����python3д��̰������Ϸ ѧϰ��
+这是一个用python3+tkinter写的贪吃蛇游戏 学习中
